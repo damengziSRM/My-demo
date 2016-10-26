@@ -1,0 +1,12 @@
+@charset "utf-8";
+img{
+	margin:0 auto;
+}
+a{
+	display: inline-block;
+}
+h1{
+	display: inline-block;
+	vertical-align: 8px;
+	color: orange;
+}
